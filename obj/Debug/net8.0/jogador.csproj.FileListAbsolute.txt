@@ -1,0 +1,14 @@
+/Users/diogobarros/Desktop/jogador/bin/Debug/net8.0/jogador
+/Users/diogobarros/Desktop/jogador/bin/Debug/net8.0/jogador.deps.json
+/Users/diogobarros/Desktop/jogador/bin/Debug/net8.0/jogador.runtimeconfig.json
+/Users/diogobarros/Desktop/jogador/bin/Debug/net8.0/jogador.dll
+/Users/diogobarros/Desktop/jogador/bin/Debug/net8.0/jogador.pdb
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/jogador.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/jogador.AssemblyInfoInputs.cache
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/jogador.AssemblyInfo.cs
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/jogador.csproj.CoreCompileInputs.cache
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/jogador.dll
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/refint/jogador.dll
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/jogador.pdb
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/jogador.genruntimeconfig.cache
+/Users/diogobarros/Desktop/jogador/obj/Debug/net8.0/ref/jogador.dll
